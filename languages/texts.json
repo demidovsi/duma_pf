@@ -1,0 +1,8 @@
+{
+  "languages": [
+    {"id": "en", "text": "English"},
+    {"id": "ru", "text": "Русский"},
+    {"id": "il", "text": "עִברִית"}
+  ]
+}
+
